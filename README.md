@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**theblixguy/theblixguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS Engineer passionate about creating exceptional mobile experiences. When I'm not coding, you might find me reading about astrophysics, cooking something delicious, listening to/playing music or working on various DIY projects.
 
-Here are some ideas to get you started:
+### What I Do
+- 🛠️ Build large-scale iOS applications using Swift, UIKit and SwiftUI.
+- 🔨 Do some open source work and contribute to projects.
+- 🌌 Explore physics and astronomy.
+- 🎵 Play music on my instruments and discover new artists.
+- 🧑‍🍳 Cook, bake and try new recipes.
+- 🎨 Always tinkering with new hobby projects and crafts!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- 🌐 [suyashsrijan.com](https://suyashsrijan.com) ([source code](https://github.com/theblixguy/personal-website))
+- 📄 [Resume](https://suyashsrijan.com/download/Suyash_Srijan_Resume.pdf) ([source code](https://github.com/theblixguy/personal-resume))
+- 📫 [suyashsrijan@outlook.com](mailto:suyashsrijan@outlook.com)
