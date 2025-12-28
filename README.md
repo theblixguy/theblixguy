@@ -14,5 +14,6 @@ I'm an iOS Engineer passionate about creating exceptional mobile experiences. Wh
 
 ### Links
 - 🌐 [suyashsrijan.com](https://suyashsrijan.com) ([source code](https://github.com/theblixguy/personal-website))
+- 📝 [suyashsrijan.com/blog](https://suyashsrijan.com/blog) ([source code](https://github.com/theblixguy/personal-blog))
 - 📄 [Resume](https://suyashsrijan.com/download/Suyash_Srijan_Resume.pdf) ([source code](https://github.com/theblixguy/personal-resume))
 - 📫 [suyashsrijan@outlook.com](mailto:suyashsrijan@outlook.com)
